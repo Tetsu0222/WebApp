@@ -41,7 +41,7 @@ section {
 HERO
 ================================================ */
 .hero {
-    background-image: url(../images/KM19814307_TP_V.jpg);
+    background-image: url(../images/gunma.jpg);
     text-align: center;
     color: whitesmoke;
     text-shadow: 2px 3px 4px #808080;
@@ -57,7 +57,7 @@ HERO
 MENU
 ================================================ */
 .menu {
-    background-image: url(../images/KAZTDSCF7019_TP_V.jpg);
+    background-image: url(../images/gunma2.jpg);
     display: flex;
     align-items: center;
     color: whitesmoke;
@@ -81,31 +81,6 @@ MENU
     padding-left: 1rem;
 }
 
-/*
-CONTACT
-================================================ */
-.contact {
-    text-align: center;
-    padding-top: 8vh;
-}
-nav {
-    background: #fff;
-    width: 3.75rem;
-    height: 3.75rem;
-    display: inline-block;
-    margin: 0 .5rem;
-    border-radius: 50%;
-    font-size: 2rem;
-    padding: .75rem 0 0 .125rem;
-    color: #555;
-}
-.contact-sns a:hover {
-    background: rgba(255,255,255,.5);
-}
-
-/*
-MOBILE SIZE
-================================================ */
 @media (max-width: 700px) {
     .title {
         font-size: 4rem;

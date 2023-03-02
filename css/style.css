@@ -79,8 +79,8 @@ img {
 
 .button {
     font-size: 1.8rem;
-    color: green;
-    background-color: whitesmoke;
+    color: whitesmoke;
+    background-color: aqua;
     text-shadow: 10px 5px 8px #808080;
     border-radius: 5px;
     padding: 10px 26px;
